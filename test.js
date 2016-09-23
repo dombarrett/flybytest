@@ -8,7 +8,8 @@ function draw() {
 }
 
 function mousePressed(){
- background(255,0,0);
+ background(0,255,0);
+//changed color, first change
   debugger;
   //console.log('its red');
 }
